@@ -1,0 +1,11 @@
+{
+  "name": "testplugin",
+  "version": "1.0.0",
+  "description": "This is test plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Nilesh",
+  "license": "ISC"
+}
